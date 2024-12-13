@@ -1,0 +1,13 @@
+.env
+.env.local
+
+main
+genpass
+go.mod
+go.sum
+
+*.log
+
+*.tmp
+*.bak
+*.swp
